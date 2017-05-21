@@ -14,6 +14,6 @@
       path: discotech.html
     - name: DecisionLoop
       path: decisionloop.html
-- name: Contact
-  path: contact.html
-  section_id: contact
+- name: CV
+  path: resume.pdf
+  section_id: resume
