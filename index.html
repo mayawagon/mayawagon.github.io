@@ -5,12 +5,10 @@ slides:
 - layout: default
   title: User experience design, research, curriculum co-creation
   tagline: 
-  image: images/@stock/diamond-white.png
-  background: images/icelab-headshot.JPG
+  background: images/green-zig-zagz.png
 - layout: default
   title: User experience design, research, curriculum co-creation
   tagline: 
-  image: images/@stock/diamond-white.png
   background: images/2015-12-24 13.41.41-1.jpg
 works_left:
 - title: Vida Verde Women's Cooperative
@@ -52,7 +50,7 @@ works_right:
   <div id="slides" class="fullscreen">
     <div class="slides-container">
       {% for slide in page.slides %}
-        <div class="slide">
+        <div class="slide" style="background-image: url({{site.url}}/{{slide.background}}); background-repeat: repeat; background-size:auto;">
           <div class="slide-info">
             <div class="row">
               <div class="large-10 large-centered columns">
@@ -70,7 +68,7 @@ works_right:
               </div>
             </div>
           </div>
-          <img src="{{site.url}}/{{slide.background}}" alt="">
+          <!-- <img src="{{site.url}}/{{slide.background}}" alt=""> -->
         </div>
       {% endfor %}
     </div>
