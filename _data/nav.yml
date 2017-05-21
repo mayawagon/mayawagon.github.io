@@ -14,6 +14,8 @@
       path: discotech.html
     - name: DecisionLoop
       path: decisionloop.html
+    - name: Emessence
+      path: emessence.html
 - name: CV
   path: resume.pdf
   section_id: resume
