@@ -1,21 +1,23 @@
 - name: Home
   path: index.html
   section_id: home
-- name: Projects
+- name: Featured Projects
   section_id: projects
   children:
+    - name: Tech for Social Justice
+      path: t4sj.co
+    - name: Virtual Identities in CS Education
+      path: stemc.html
+    - name: Boston Civic Media
+      path: bostoncivicmedia.html
     - name: Vida Verde
       path: vida-verde-2.html
-    - name: Is a Nigga a Citizen?
+    - name: Black Citizenship Project
       path: isaniggaacitizen.html
-    - name: Feelin' the Blues
-      path: feelintheblues.html
     - name: DiscoTech
       path: discotech.html
     - name: DecisionLoop
       path: decisionloop.html
-    - name: Emessence
-      path: emessence.html
-- name: CV
+- name: CV [PDF]
   path: resume.pdf
   section_id: resume
