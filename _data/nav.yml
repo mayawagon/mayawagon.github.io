@@ -5,9 +5,9 @@
   section_id: projects
   children:
     - name: Tech for Social Justice
-      path: t4sj.co
+      path: t4sj.html
     - name: Virtual Identities in CS Education
-      path: stemc.html
+      path: stem-c.html
     - name: Boston Civic Media
       path: bostoncivicmedia.html
     - name: Vida Verde
