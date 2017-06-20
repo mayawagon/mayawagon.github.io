@@ -19,5 +19,5 @@
     - name: DecisionLoop
       path: decisionloop.html
 - name: CV [PDF]
-  path: resume.pdf
+  path: Resume.pdf
   section_id: resume
