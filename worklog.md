@@ -36,9 +36,9 @@ _Inspired by [Aurelia Mozer's Worklog](https://github.com/auremoser/mozsci/blob/
 
 ## 10/31/17
 - sent playbook draft with comments to TYTHE
+- meet with Cheila Cruz about technology training
 
 ### to-do
-- meet with Cheila Cruz about technology training
 - read Red Hook proposal
 - follow up with connections from Mozfest
 	- Greta Byrum and Raul about community wireless
