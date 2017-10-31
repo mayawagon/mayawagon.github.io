@@ -9,12 +9,21 @@ _Inspired by [Aurelia Mozer's Worklog](https://github.com/auremoser/mozsci/blob/
 - **Technology for Social Justice Field Scan**: Participatory action research project to understand how people and what people build, use, and engage with technology for social justice and social good.
 
 # Calendar
-| Month | Date        | In the library? | What |
-| --------- | :-----------: |:---------------:| ----:|
+| Month | Date | In the library? | What |
+| --------- | :-----------: |:---------------:| ----|
 | September | 25-28 | no | Mozilla Onboarding in Toronto |
 | October | 2 | yes | first day at library |
+| | 3-6 | yes | in library, meeting with Sharon Palmer, David Giles, Aditi Mehta, Larissa Larrier, Story Bellows, Paul Levy, Jackson Gomes, Adwoa Adusei |
+| | 9-13| yes | |
+| | 16 | yes/no | Meet with Bed-Stuy Restoration Corporation and Brownsville Partnership|
 | | 17-19 | no | Technology for Social Justice Field Scan research convening in Chicago |
+| | 23 | yes | |
 | | 24-30 | no | Mozilla Festival in London |
+| November | 2 | no | Project Management workshop/training from 11-2 at METRO Library Council, meet with Jose Serrano-McClain at Neighborhood Innovation Lab in Brownsville at 4pm |
+| | 9 | no | [Facilitation bootcamp by the Design Gym](http://www.thedesigngym.com/event/facilitation-bootcamp-29/) |
+| | 10-11| no | [The People's Disruption: Platform Coops for Global Challenges](https://platform.coop/2017)| | 15-17 | no | [Nonprofit Software Development Summit in Oakland, CA](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) |
+| | 17-19 | no | [Data for Black Lives](http://d4bl.org/conference.html) Conference at MIT |  
+| January | 30 | yes | my birthday! 🎉|
 
 # Worklog (What exactly I do every day)
 
@@ -23,8 +32,9 @@ _Inspired by [Aurelia Mozer's Worklog](https://github.com/auremoser/mozsci/blob/
 
 ### to-do
 - meet with Cheila Cruz about technology training
+- read Red Hook proposal
 - follow up with connections from Mozfest
 - send agenda and set meeting location with Jose from Neighborhood Innovation Lab
-- create workplan
+- create workplan for bklynCONNECT using open practices
 - set time to meet with Selvon every other week
-- check transcripts
+- check & send t4sj transcripts
