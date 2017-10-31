@@ -51,3 +51,4 @@ _Inspired by [Aurelia Mozer's Worklog](https://github.com/auremoser/mozsci/blob/
 - create workplan for bklynCONNECT using open practices
 - set time to meet with Selvon every other week
 - check & send t4sj transcripts
+- send list of links and resources to Cheila
