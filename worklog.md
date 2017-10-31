@@ -26,12 +26,14 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | November | 10-11| no | [The People's Disruption: Platform Coops for Global Challenges](https://platform.coop/2017)| | 15-17 | no | [Nonprofit Software Development Summit in Oakland, CA](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) |
 | November | 17-19 | no | [Data for Black Lives](http://d4bl.org/conference.html) Conference at MIT |  
 | December | | | |
+| January | 22-26 | no | Mozilla Fellows Workweek |
 | January | 30 | yes | my birthday! 🎉|
-| February | | | |
-| March | | | |
+| February | 13-16 | no | [Code4Lib](https://code4lib.org/) in Washington, DC |
+| March | 5-9 | no | [Internet Freedom Festival](https://internetfreedomfestival.org/) in Valencia, Spain |
+| March | 20-24 | no | Public Libraries Association Conference in Philadelphia, PA |
 | April | | | |
 | May | | | |
-| June | | | |
+| June | 30 | yes | final day of fellowship |
 
 # Links
 
