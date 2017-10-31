@@ -15,10 +15,10 @@ _Inspired by [Aurelia Mozer's Worklog](https://github.com/auremoser/mozsci/blob/
 | October | 2 | yes | first day at library 🎉|
 | October | 3-6 | yes | Meeting with Sharon Palmer, David Giles, Aditi Mehta, Larissa Larrier, Story Bellows, Paul Levy, Jackson Gomes, Adwoa Adusei |
 | October | 9-13| yes | |
-| October | 16 | yes/no | Meet with Bed-Stuy Restoration Corporation and Brownsville Partnership|
-| October | 17-19 | no | Technology for Social Justice Field Scan research convening in Chicago |
+| October | 16 | yes/no | Meet with [Bed-Stuy Restoration Corporation](http://restorationplaza.org/) and [Brownsville Partnership](https://www.community.solutions/what-we-do/brownsville-partnership)|
+| October | 17-19 | no | [Technology for Social Justice Field Scan](http://t4sj.co) research convening in Chicago |
 | October | 23 | yes | |
-| October | 24-30 | no | Mozilla Festival in London |
+| October | 24-30 | no | [Mozilla Festival](https://mozillafestival.org/) in London |
 | November | 2 | no | Project Management workshop/training from 11-2 at METRO Library Council, meet with Jose Serrano-McClain at Neighborhood Innovation Lab in Brownsville at 4pm |
 | November | 9 | no | [Facilitation bootcamp by the Design Gym](http://www.thedesigngym.com/event/facilitation-bootcamp-29/) |
 | November | 10-11| no | [The People's Disruption: Platform Coops for Global Challenges](https://platform.coop/2017)| | 15-17 | no | [Nonprofit Software Development Summit in Oakland, CA](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) |
@@ -41,6 +41,12 @@ _Inspired by [Aurelia Mozer's Worklog](https://github.com/auremoser/mozsci/blob/
 - meet with Cheila Cruz about technology training
 - read Red Hook proposal
 - follow up with connections from Mozfest
+	- Greta Byrum and Raul about community wireless
+	- Diana Nucera about community wireless organizing and t4sj debrief
+	- Khalid about Recurse academy
+	- An-Me about web literacy curriculum
+	- Davis about library web lit
+	- Audrey and Amira about libraries and web literacy
 - send agenda and set meeting location with Jose from Neighborhood Innovation Lab
 - create workplan for bklynCONNECT using open practices
 - set time to meet with Selvon every other week
