@@ -21,6 +21,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | October | 24-30 | no | [Mozilla Festival](https://mozillafestival.org/) in London |
 | October | 31| yes | |
 | November | 2 | no | Project Management workshop/training from 11-2 at METRO Library Council, meet with Jose Serrano-McClain at Neighborhood Innovation Lab in Brownsville at 4pm |
+| November | 8 | yes | Send revised and incorporated Playbook content back to Tythe | 
 | November | 9 | no | [Facilitation bootcamp by the Design Gym](http://www.thedesigngym.com/event/facilitation-bootcamp-29/) |
 | November | 10-11| no | [The People's Disruption: Platform Coops for Global Challenges](https://platform.coop/2017)| | 15-17 | no | [Nonprofit Software Development Summit in Oakland, CA](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) |
 | November | 17-19 | no | [Data for Black Lives](http://d4bl.org/conference.html) Conference at MIT |  
@@ -68,3 +69,5 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Read through [revised needs assessments](https://www.dropbox.com/personal/BklynConnect%20-%20Final%20Reports%20-%20Oct%2025%202017 )and approve for public release
 	- talk with Diana abou distribution to team, branches, partners, etc.
 - get tix to [intro to facilitation workshop on nov 20](https://www.eventbrite.com/e/class-intro-to-facilitation-fundamentals-in-becoming-an-effective-facilitator-tickets-37990809534?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button)
+- Incorporate TYTHE's suggested changes to playbook section
+- pick up Blindness from hold section at library
