@@ -45,12 +45,14 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - [list of local CBOs per Brooklyn Neighborhood](https://www.dropbox.com/s/bocupav7nt4fx7d/BKLNconnect_CBOs-Resources_v1.xlsx?dl=0) (from Kristina Drury)
 
 
-# Worklog (What exactly I do every day)
+# Worklog
 
 ## 10/31/17
 - Sent playbook draft with comments to TYTHE
 - Met with Cheila Cruz about technology training
 - Applied to join [The National Digital Inclusion Alliance](https://www.digitalinclusion.org/) for the Brooklyn Public Library
+- Send [shared agenda](https://docs.google.com/document/d/1nXdP89qcSzBjVrnWxvnJ8sztNRUxCw0SbNG9SclRa2k/edit?usp=sharing ) and [Brownsville digital equity needs assessment](https://www.dropbox.com/s/5ifw640gj4hnm9q/BklynConnect-Brownsville_web_v3.pdf?dl=0) to [Jose Serrano-McClain](https://www.linkedin.com/in/joses1/)
+- booked a room and sent out conference call info for partner decision meeting on Friday
 
 ### to-do
 - read Red Hook proposal
@@ -71,3 +73,4 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - get tix to [intro to facilitation workshop on nov 20](https://www.eventbrite.com/e/class-intro-to-facilitation-fundamentals-in-becoming-an-effective-facilitator-tickets-37990809534?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button)
 - Incorporate TYTHE's suggested changes to playbook section
 - pick up Blindness from hold section at library
+- Respond to Selvon w/ committment to Nudge project
