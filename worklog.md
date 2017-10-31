@@ -32,6 +32,17 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | May | | | |
 | June | | | |
 
+# Links
+
+## Curricula
+- [Data Privacy Project](https://dataprivacyproject.org/curriculum/)
+- [Detroit Future Media Guide to Digital Literacy](https://www.alliedmedia.org/files/dfm_final_web.pdf)
+- [Detroit Future Schools Guide to Humanizing Schooling](https://www.alliedmedia.org/news/2015/09/10/introducing-%E2%80%9Cdfs-guide-humanizing-schooling%E2%80%9D)
+- [Opening Data Zine](https://www.alliedmedia.org/files/ddjc_zine-final-rgb.pdf)
+
+## Other links
+- [list of local CBOs per Brooklyn Neighborhood](https://www.dropbox.com/s/bocupav7nt4fx7d/BKLNconnect_CBOs-Resources_v1.xlsx?dl=0) (from Kristina Drury)
+
 
 # Worklog (What exactly I do every day)
 
@@ -53,3 +64,6 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - set time to meet with Selvon every other week
 - check & send t4sj transcripts
 - send list of links and resources to Cheila
+- Read through [revised needs assessments](https://www.dropbox.com/personal/BklynConnect%20-%20Final%20Reports%20-%20Oct%2025%202017 )and approve for public release
+	- talk with Diana abou distribution to team, branches, partners, etc.
+- get tix to [intro to facilitation workshop on nov 20](https://www.eventbrite.com/e/class-intro-to-facilitation-fundamentals-in-becoming-an-effective-facilitator-tickets-37990809534?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button)
