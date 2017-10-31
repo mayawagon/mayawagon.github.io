@@ -47,8 +47,9 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 # Worklog (What exactly I do every day)
 
 ## 10/31/17
-- sent playbook draft with comments to TYTHE
-- meet with Cheila Cruz about technology training
+- Sent playbook draft with comments to TYTHE
+- Met with Cheila Cruz about technology training
+- Applied to join [The National Digital Inclusion Alliance](https://www.digitalinclusion.org/) for the Brooklyn Public Library
 
 ### to-do
 - read Red Hook proposal
