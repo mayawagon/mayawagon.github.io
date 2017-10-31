@@ -53,6 +53,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Applied to join [The National Digital Inclusion Alliance](https://www.digitalinclusion.org/) for the Brooklyn Public Library
 - Send [shared agenda](https://docs.google.com/document/d/1nXdP89qcSzBjVrnWxvnJ8sztNRUxCw0SbNG9SclRa2k/edit?usp=sharing ) and [Brownsville digital equity needs assessment](https://www.dropbox.com/s/5ifw640gj4hnm9q/BklynConnect-Brownsville_web_v3.pdf?dl=0) to [Jose Serrano-McClain](https://www.linkedin.com/in/joses1/)
 - booked a room and sent out conference call info for partner decision meeting on Friday
+- told Selvon I would contribute design research to nudge project
 
 ### to-do
 - read Red Hook proposal
@@ -63,14 +64,12 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 	- An-Me about web literacy curriculum
 	- Davis about library web lit
 	- Audrey and Amira about libraries and web literacy
-- send agenda and set meeting location with Jose from Neighborhood Innovation Lab
 - create workplan for bklynCONNECT using open practices
 - set time to meet with Selvon every other week
 - check & send t4sj transcripts
 - send list of links and resources to Cheila
-- Read through [revised needs assessments](https://www.dropbox.com/personal/BklynConnect%20-%20Final%20Reports%20-%20Oct%2025%202017 )and approve for public release
+- Read through [revised needs assessments](https://www.dropbox.com/personal/BklynConnect%20-%20Final%20Reports%20-%20Oct%2025%202017) and approve for public release
 	- talk with Diana abou distribution to team, branches, partners, etc.
 - get tix to [intro to facilitation workshop on nov 20](https://www.eventbrite.com/e/class-intro-to-facilitation-fundamentals-in-becoming-an-effective-facilitator-tickets-37990809534?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button)
 - Incorporate TYTHE's suggested changes to playbook section
 - pick up Blindness from hold section at library
-- Respond to Selvon w/ committment to Nudge project
