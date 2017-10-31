@@ -1,4 +1,4 @@
-_Inspired by [Aurelia Mozer's Worklog](https://github.com/auremoser/mozsci/blob/master/log/worklog.md)_
+_Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/master/log/worklog.md)_
 
 # List of current projects 
 - **bklynCONNECT**: a community-driven free wireless network and associated technology training program
@@ -19,6 +19,7 @@ _Inspired by [Aurelia Mozer's Worklog](https://github.com/auremoser/mozsci/blob/
 | October | 17-19 | no | [Technology for Social Justice Field Scan](http://t4sj.co) research convening in Chicago |
 | October | 23 | yes | |
 | October | 24-30 | no | [Mozilla Festival](https://mozillafestival.org/) in London |
+| October | 31| yes | |
 | November | 2 | no | Project Management workshop/training from 11-2 at METRO Library Council, meet with Jose Serrano-McClain at Neighborhood Innovation Lab in Brownsville at 4pm |
 | November | 9 | no | [Facilitation bootcamp by the Design Gym](http://www.thedesigngym.com/event/facilitation-bootcamp-29/) |
 | November | 10-11| no | [The People's Disruption: Platform Coops for Global Challenges](https://platform.coop/2017)| | 15-17 | no | [Nonprofit Software Development Summit in Oakland, CA](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) |
