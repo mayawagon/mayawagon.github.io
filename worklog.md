@@ -10,7 +10,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 
 # Calendar
 | Month		| Date  | In the library? 	| What |
-| --------- | :---: |:---------------:	| ----|
+| --------- | :---: |:----------------:	| -----|
 | September | 25-28 | no 				| Mozilla Onboarding in Toronto |
 | October   | 2 	| yes 				| first day at library 🎉|
 | October   | 3-6 	| yes 				| Meeting with Sharon Palmer, David Giles, Aditi Mehta, Larissa Larrier, Story Bellows, Paul Levy, Jackson Gomes, Adwoa Adusei |
@@ -23,9 +23,18 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | November  | 2 	| no 				| Project Management workshop/training from 11-2 at METRO Library Council, meet with Jose Serrano-McClain at Neighborhood Innovation Lab in Brownsville at 4pm |
 | November 	| 8 	| yes 				| Send revised and incorporated Playbook content back to Tythe | 
 | November 	| 9 	| no 				| [Facilitation bootcamp by the Design Gym](http://www.thedesigngym.com/event/facilitation-bootcamp-29/) |
-| November 	| 10-11	| no 				| [The People's Disruption: Platform Coops for Global Challenges](https://platform.coop/2017)| | 15-17 | no | [Nonprofit Software Development Summit in Oakland, CA](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) |
+| November 	| 10-11	| no 				| Veteran's Day Observed and [The People's Disruption: Platform Coops for Global Challenges](https://platform.coop/2017)|
+| November	| 15-17 | no 				| [Nonprofit Software Development Summit in Oakland, CA](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) |
 | November 	| 17-19 | no 				| [Data for Black Lives](http://d4bl.org/conference.html) Conference at MIT |  
-| December 	| | | |
+| November 	| 20-22 | yes				|	|
+| November 	| 23	| no				| Thanksgiving	|
+| Novmber	| 27-30 | yes				|	|
+| December 	| 1 	| yes				| 	|
+| December	| 4-8	| yes				|	|
+| December	| 11-15	| yes				|	|
+| December	| 18-22 | yes				|	|
+| December  | 25	| no				| Christmas	| 
+| December  | 26-29 | yes				|	|
 | January 	| 22-26 | no 				| Mozilla Fellows Workweek |
 | January 	| 30 	| yes 				| my birthday! 🎉|
 | February 	| 13-16 | no 				| [Code4Lib](https://code4lib.org/) in Washington, DC |
@@ -61,9 +70,15 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 ## 11/1/17
 - QA'd ostensibly missing transcripts for T4SJ
 - emailed Greta and Raul to set up meeting about community wireless
-- requested a meeting with Diana about community wireless and t4sj
+- requested a meeting with Diana Nucera about community wireless and t4sj
 - messaged Khalid from the MozFest quiet room about [Recurse](https://www.recurse.com/)
 - responded to An-Me about London postal history and library web lit curriculum
+- sent a list of links and resources on web/digital literacy to Cheila Cruz
+
+## 11/2/17 
+- sent intro email to Diana P., David, Rawle, Paul Levy, Larissa Larrier, José Serrano McClain, Kate Hohman, Anthony Sanford in preparation for partnership meeting 
+- maturely handled an awkward social situation by communicating
+- Met with NYC Tech/Neighborhood Innovation Lab in Brownsville to talk about partnership, and to tour Osborn plaza
 
 ### to-do
 - read Red Hook proposal
@@ -72,9 +87,8 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 	- Audrey and Amira about libraries and web literacy
 - create workplan for bklynCONNECT using open practices
 - set time to meet with Selvon every other week
-- send list of links and resources to Cheila
 - Read through [revised needs assessments](https://www.dropbox.com/personal/BklynConnect%20-%20Final%20Reports%20-%20Oct%2025%202017) and approve for public release
-	- talk with Diana about distribution to team, branches, partners, etc.
+	- talk with Diana P. about distribution to team, branches, partners, etc.
 - get tix to [intro to facilitation workshop on nov 20](https://www.eventbrite.com/e/class-intro-to-facilitation-fundamentals-in-becoming-an-effective-facilitator-tickets-37990809534?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button)
 - Incorporate TYTHE's suggested changes to playbook section
 - pick up Blindness from hold section at library
