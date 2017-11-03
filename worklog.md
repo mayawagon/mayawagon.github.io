@@ -5,7 +5,8 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 	- Setting up a partnership
 	- Publishing a Playbook
 - **Open Leadership Training for the library**: Using Mozilla's resources on how to "work open" (i.e. how to sharing knowledge and information widely and freely, allow others to build on your projects, and maximize  usefulness for everyone) to train library staff and change the culture of the library.
-- **Alternatives to fines**: A system that gets people to return books to the library without levying fines and creating debt in the community.
+- **Alternatives to fines**: A system that gets people to return books to the library without levying fines and creating debt in the community
+- **Curriculum Development for Bklyn Library Technology Trainings**: Develop an open curriculum for training library staff and patrons
 - **Technology for Social Justice Field Scan**: Participatory action research project to understand how people and what people build, use, and engage with technology for social justice and social good.
 
 # Calendar
@@ -76,11 +77,16 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - sent a list of links and resources on web/digital literacy to Cheila Cruz
 
 ## 11/2/17 
-- sent intro email to Diana P., David, Rawle, Paul Levy, Larissa Larrier, José Serrano McClain, Kate Hohman, Anthony Sanford in preparation for partnership meeting 
+- sent intro email to Diana P., David, Rawle, Paul Levy, José Serrano McClain, Kate Hohman, Anthony Sanford in preparation for partnership meeting 
 - maturely handled an awkward social situation by communicating
 - Met with NYC Tech/Neighborhood Innovation Lab in Brownsville to talk about partnership, and to tour Osborn plaza
 
+## 11/3/17
+- _Bklyn Incubator pitch meeting_
+- 
+
 ### to-do
+- prepare 10-15 minute talk for T4 graduation on Wednesday
 - read Red Hook proposal
 - follow up with connections from Mozfest
 	- Davis about library web lit
