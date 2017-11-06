@@ -6,7 +6,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 	- Publishing a Playbook
 - **Open Leadership Training for the library**: Using Mozilla's resources on how to "work open" (i.e. how to sharing knowledge and information widely and freely, allow others to build on your projects, and maximize  usefulness for everyone) to train library staff and change the culture of the library.
 - **Alternatives to fines**: A system that gets people to return books to the library without levying fines and creating debt in the community
-- **Curriculum Development for Bklyn Library Technology Trainings**: Develop an open curriculum for training library staff and patrons
+- **Curriculum Development for Bklyn Library Technology Trainings**: Collaboratively develop an open curriculum for training library staff and patrons
 - **Technology for Social Justice Field Scan**: Participatory action research project to understand how people and what people build, use, and engage with technology for social justice and social good.
 
 # Calendar
@@ -83,7 +83,11 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 
 ## 11/3/17
 - _Bklyn Incubator pitch meeting_
-- 
+- [facilitated a meeting](https://docs.google.com/document/d/1Y0SRhYHxjJ7YtfNjDS__iPaERF9CajRWfZ6CPyYV4Y4/edit?usp=sharing) with David, Diana, Rawle, Selvon, Larissa, Sharon, and Jackson and consensed on a proposal for sharing with potential partners for wifi in Osborn plaza and cohort-based stewardship
+
+## 11/6/17
+- read Greta and Raul's write up today: [What Happens to the Internet After a Disaster? By Ingrid Burrington](http://nymag.com/selectall/2017/10/what-happens-to-the-internet-after-a-disaster.html)
+- Messaged Greta and Raul to set up a meeting on "how to best set up a(n intergenerational) cohort-based stewardship program, what curricula you use or have created, how ownership works in your networks, and any unexpected challenges you've run into that we could avoid."
 
 ### to-do
 - prepare 10-15 minute talk for T4 graduation on Wednesday
@@ -97,4 +101,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 	- talk with Diana P. about distribution to team, branches, partners, etc.
 - get tix to [intro to facilitation workshop on nov 20](https://www.eventbrite.com/e/class-intro-to-facilitation-fundamentals-in-becoming-an-effective-facilitator-tickets-37990809534?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button)
 - Incorporate TYTHE's suggested changes to playbook section
-- pick up Blindness from hold section at library
+- review TYTHE's updates to their section of the playbook
+
+### to-maybe-do
+- coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
