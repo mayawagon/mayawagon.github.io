@@ -25,7 +25,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | November 	| 8 	| yes 				| Send revised and incorporated Playbook content back to Tythe | 
 | November 	| 9 	| no 				| [Facilitation bootcamp by the Design Gym](http://www.thedesigngym.com/event/facilitation-bootcamp-29/) |
 | November 	| 10-11	| no 				| Veteran's Day Observed and [The People's Disruption: Platform Coops for Global Challenges](https://platform.coop/2017)|
-| November	| 15-17 | no 				| [Nonprofit Software Development Summit in Oakland, CA](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) |
+| November	| 15-17 | no 				| [Nonprofit Software Development Summit](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) in Oakland, CA|
 | November 	| 17-19 | no 				| [Data for Black Lives](http://d4bl.org/conference.html) Conference at MIT |  
 | November 	| 20-22 | yes				|	|
 | November 	| 23	| no				| Thanksgiving	|
@@ -91,9 +91,11 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Messaged Greta and Raul to set up a meeting on "how to best set up a(n intergenerational) cohort-based stewardship program, what curricula you use or have created, how ownership works in your networks, and any unexpected challenges you've run into that we could avoid."
 - reviewed TYTHE's revisions to playbook
 - met with TYTHE, Diana P. and Rawle about playbook status
+- followed up with Diana N. about community advisory boards and intergenerationality
+- asked Ellen Mehling about her community advisory position with the Brownsville Tech Board
+- Messaged NYCxCoLab to ask to collaborate
 
-### to-do
-- message Jose Serrano-McClain about the new plan
+# to-do
 - prepare 10-15 minute talk for T4 graduation on Wednesday
 - read Red Hook proposal
 - create workplan for bklynCONNECT using open practices
@@ -105,7 +107,6 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 	- rewrite section on bias and assumptions (p. 11)
 	- revise your sections
 	- nudge jackson on his
-- nudge Diana N. 
 - find someone implementing community wireless to be an audience/user
 - schedule meeting with Diana P. to go over timeline and what this whole thing looks like
 - ask Jackson if we can make a video presenting our playbook (one day video shoot)
