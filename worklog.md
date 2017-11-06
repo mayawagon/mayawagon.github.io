@@ -56,6 +56,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - [list of local CBOs per Brooklyn Neighborhood](https://www.dropbox.com/s/bocupav7nt4fx7d/BKLNconnect_CBOs-Resources_v1.xlsx?dl=0) (from Kristina Drury)
 - [Opening Data Zine](https://www.alliedmedia.org/files/ddjc_zine-final-rgb.pdf)
 - [Recurse Center Manual](https://www.recurse.com/manual)
+- [Community Technology Field Guide](http://communitytechnology.github.io/)
 
 
 # Worklog
@@ -88,20 +89,32 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 ## 11/6/17
 - read Greta and Raul's write up today: [What Happens to the Internet After a Disaster? By Ingrid Burrington](http://nymag.com/selectall/2017/10/what-happens-to-the-internet-after-a-disaster.html)
 - Messaged Greta and Raul to set up a meeting on "how to best set up a(n intergenerational) cohort-based stewardship program, what curricula you use or have created, how ownership works in your networks, and any unexpected challenges you've run into that we could avoid."
+- reviewed TYTHE's revisions to playbook
+- met with TYTHE, Diana P. and Rawle about playbook status
 
 ### to-do
+- message Jose Serrano-McClain about the new plan
 - prepare 10-15 minute talk for T4 graduation on Wednesday
 - read Red Hook proposal
-- follow up with connections from Mozfest
-	- Davis about library web lit
-	- Audrey and Amira about libraries and web literacy
 - create workplan for bklynCONNECT using open practices
 - set time to meet with Selvon every other week
 - Read through [revised needs assessments](https://www.dropbox.com/personal/BklynConnect%20-%20Final%20Reports%20-%20Oct%2025%202017) and approve for public release
 	- talk with Diana P. about distribution to team, branches, partners, etc.
-- get tix to [intro to facilitation workshop on nov 20](https://www.eventbrite.com/e/class-intro-to-facilitation-fundamentals-in-becoming-an-effective-facilitator-tickets-37990809534?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button)
 - Incorporate TYTHE's suggested changes to playbook section
 - review TYTHE's updates to their section of the playbook
+	- rewrite section on bias and assumptions (p. 11)
+	- revise your sections
+	- nudge jackson on his
+- nudge Diana N. 
+- find someone implementing community wireless to be an audience/user
+- schedule meeting with Diana P. to go over timeline and what this whole thing looks like
+- ask Jackson if we can make a video presenting our playbook (one day video shoot)
+- send Stefanie people that should be in her consortium
+- read and review Web Literacy Curriculum Reboot 
 
 ### to-maybe-do
 - coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
+- follow up with connections from Mozfest
+	- Davis about library web lit
+	- Audrey and Amira about libraries and web literacy
+- ask An-Me about her own family history and how it relates to Blackdom
