@@ -2,12 +2,10 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 
 # List of current projects 
 - **bklynCONNECT**: a community-driven free wireless network and associated technology training program
-	- Setting up a partnership
-	- Publishing a Playbook
-- **Open Leadership Training for the library**: Using Mozilla's resources on how to "work open" (i.e. how to sharing knowledge and information widely and freely, allow others to build on your projects, and maximize  usefulness for everyone) to train library staff and change the culture of the library.
+- **Open Leadership Training for the library**: Using Mozilla's resources on how to "work open" (i.e. how to sharing knowledge and information widely and freely, allow others to build on your projects, and maximize  usefulness for everyone) to train library staff and change the culture of the library
 - **Alternatives to fines**: A system that gets people to return books to the library without levying fines and creating debt in the community
 - **Curriculum Development for Bklyn Library Technology Trainings**: Collaboratively develop an open curriculum for training library staff and patrons
-- **Technology for Social Justice Field Scan**: Participatory action research project to understand how people and what people build, use, and engage with technology for social justice and social good.
+- **Technology for Social Justice Field Scan**: Participatory action research project to understand how people and what people build, use, and engage with technology for social justice and social good
 
 # Calendar
 | Month		| Date  | In the library? 	| What |
@@ -24,7 +22,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | November  | 2 	| no 				| Project Management workshop/training from 11-2 at METRO Library Council, meet with Jose Serrano-McClain at Neighborhood Innovation Lab in Brownsville at 4pm |
 | November 	| 8 	| yes 				| Send revised and incorporated Playbook content back to Tythe | 
 | November 	| 9 	| no 				| [Facilitation bootcamp by the Design Gym](http://www.thedesigngym.com/event/facilitation-bootcamp-29/) |
-| November 	| 10-11	| no 				| Veteran's Day Observed and [The People's Disruption: Platform Coops for Global Challenges](https://platform.coop/2017)|
+| November 	| 10-11	| no 				| Veteran's Day and [The People's Disruption: Platform Coops for Global Challenges](https://platform.coop/2017)|
 | November	| 15-17 | no 				| [Nonprofit Software Development Summit](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) in Oakland, CA|
 | November 	| 17-19 | no 				| [Data for Black Lives](http://d4bl.org/conference.html) Conference at MIT |  
 | November 	| 20-22 | yes				|	|
@@ -95,23 +93,26 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - asked Ellen Mehling about her community advisory position with the Brownsville Tech Board
 - Messaged NYCxCoLab to ask to collaborate
 
+## 11/7/17
+- Made final edits to neighborhood digital equity needs assessment reports and sent to Kris
+
+### to-do today
+- distribute needs assessments to team, branches, partners, etc.
+- review TYTHE's updates to their section of the playbook
+	- rewrite section on bias and assumptions (p. 11)
+	- Incorporate TYTHE's suggested changes to playbook section
+	- nudge Jackson on his
+
 # to-do
 - prepare 10-15 minute talk for T4 graduation on Wednesday
 - read Red Hook proposal
 - create workplan for bklynCONNECT using open practices
 - set time to meet with Selvon every other week
-- Read through [revised needs assessments](https://www.dropbox.com/personal/BklynConnect%20-%20Final%20Reports%20-%20Oct%2025%202017) and approve for public release
-	- talk with Diana P. about distribution to team, branches, partners, etc.
-- Incorporate TYTHE's suggested changes to playbook section
-- review TYTHE's updates to their section of the playbook
-	- rewrite section on bias and assumptions (p. 11)
-	- revise your sections
-	- nudge jackson on his
 - find someone implementing community wireless to be an audience/user
 - schedule meeting with Diana P. to go over timeline and what this whole thing looks like
 - ask Jackson if we can make a video presenting our playbook (one day video shoot)
 - send Stefanie people that should be in her consortium
-- read and review Web Literacy Curriculum Reboot 
+- read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
 
 ### to-maybe-do
 - coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
