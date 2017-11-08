@@ -95,24 +95,30 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 
 ## 11/7/17
 - Made final edits to neighborhood digital equity needs assessment reports and sent to Kris
+- Incorporated TYTHE's suggestions into BPL provided playbook sections
+- Gave Diana P. constructive feedback on her Data Visualization in Tableau for teens workshop
+- asked Jackson if we can make a video where fellows present the playbook (one day video shoot)
+
+
+## 11/8/17
+- wrote speech to give to T4s 
+- send Kris commentary on her changes to playbook, and changes to my changes on playbook
+- nudged Jackson to send me changes to his section of the playbook
+-_talk with An-Me Chung and Zannah Marsh about web literacy curriculum_
 
 ### to-do today
+- read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
 - distribute needs assessments to team, branches, partners, etc.
-- review TYTHE's updates to their section of the playbook
-	- rewrite section on bias and assumptions (p. 11)
-	- Incorporate TYTHE's suggested changes to playbook section
-	- nudge Jackson on his
+- rewrite TYTHE's section on bias and assumptions (p. 11)
+- send Stefanie people that should be in her consortium
 
 # to-do
-- prepare 10-15 minute talk for T4 graduation on Wednesday
 - read Red Hook proposal
 - create workplan for bklynCONNECT using open practices
 - set time to meet with Selvon every other week
 - find someone implementing community wireless to be an audience/user
 - schedule meeting with Diana P. to go over timeline and what this whole thing looks like
-- ask Jackson if we can make a video presenting our playbook (one day video shoot)
-- send Stefanie people that should be in her consortium
-- read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
+
 
 ### to-maybe-do
 - coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
