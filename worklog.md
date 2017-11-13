@@ -6,6 +6,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - **Alternatives to fines**: A system that gets people to return books to the library without levying fines and creating debt in the community
 - **Curriculum Development for Bklyn Library Technology Trainings**: Collaboratively develop an open curriculum for training library staff and patrons
 - **Technology for Social Justice Field Scan**: Participatory action research project to understand how people and what people build, use, and engage with technology for social justice and social good
+- **Helio Sousa's website**: website for Capoeira Angola in Toronto, as well as leatherwork, talks, and musings 
 
 # Calendar
 | Month		| Date  | In the library? 	| What |
@@ -104,10 +105,20 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - wrote speech to give to T4s 
 - send Kris commentary on her changes to playbook, and changes to my changes on playbook
 - nudged Jackson to send me changes to his section of the playbook
--_talk with An-Me Chung and Zannah Marsh about web literacy curriculum_
+-spoke with Zannah Marsh from Mozilla about web literacy curriculum
+- updated shared calendar for when I will and won't be around
+
+## 11/9/17
+_Facilitation Bootcamp by the Design Gym_
+- Sent Kris from TYTHE updated needs assessment .indd's
+
+## 11/10/17
+_Veteran's Day Observed_
+_**Conference**: The People's Disruption: Platform Co-ops for Global Challenges_
+
+## 11/13/17
 
 ### to-do today
-- read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
 - distribute needs assessments to team, branches, partners, etc.
 - rewrite TYTHE's section on bias and assumptions (p. 11)
 - send Stefanie people that should be in her consortium
@@ -118,6 +129,13 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - set time to meet with Selvon every other week
 - find someone implementing community wireless to be an audience/user
 - schedule meeting with Diana P. to go over timeline and what this whole thing looks like
+- write definitions and framing section of t4sj final report
+- write ecosystem section of t4sj final report
+- mock up a layout and table of contents for final report
+- read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
+- write up a design lesson plan for Web Literacy Curriculum
+- test out some of the lesson modules in the branches
+- Send Hélio mock-ups of site
 
 
 ### to-maybe-do
