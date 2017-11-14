@@ -6,7 +6,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - **Alternatives to fines**: A system that gets people to return books to the library without levying fines and creating debt in the community
 - **Curriculum Development for Bklyn Library Technology Trainings**: Collaboratively develop an open curriculum for training library staff and patrons
 - **Technology for Social Justice Field Scan**: Participatory action research project to understand how people and what people build, use, and engage with technology for social justice and social good
-- **Helio Sousa's website**: website for Capoeira Angola in Toronto, as well as leatherwork, talks, and musings 
+- **Hélio Sousa's website**: website for Capoeira Angola in Toronto, as well as leatherwork, talks, and musings 
 
 # Calendar
 | Month		| Date  | In the library? 	| What |
@@ -117,30 +117,38 @@ _Veteran's Day Observed_
 _**Conference**: The People's Disruption: Platform Co-ops for Global Challenges_
 
 ## 11/13/17
+- Lead a meeting with Jose, Kate, and Anthony from NYC Tech + Rawle and Diana P.
+- read Red Hook proposal
+- scheduled meeting with Diana P. and Rawle to go over timeline and what this whole thing looks like
+
+## 11/14/17
+- created workplan and Kanban board for bklynCONNECT using open practices
+- Contacted Taurean Lewis and Mary Tobin about plans for Osborn Plaza
 
 ### to-do today
+- Let Restoration Corp know about Bklyn Library Plans
+- write definitions and framing section of t4sj final report
+- write ecosystem section of t4sj final report
+- write up a design lesson plan for Web Literacy Curriculum
+
+# to-do
+- set time to meet with Selvon every other week
+- find someone implementing community wireless to be an audience/user
+- read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
+- test out some of the lesson modules in the branches
 - distribute needs assessments to team, branches, partners, etc.
 - rewrite TYTHE's section on bias and assumptions (p. 11)
 - send Stefanie people that should be in her consortium
-
-# to-do
-- read Red Hook proposal
-- create workplan for bklynCONNECT using open practices
-- set time to meet with Selvon every other week
-- find someone implementing community wireless to be an audience/user
-- schedule meeting with Diana P. to go over timeline and what this whole thing looks like
-- write definitions and framing section of t4sj final report
-- write ecosystem section of t4sj final report
-- mock up a layout and table of contents for final report
-- read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
-- write up a design lesson plan for Web Literacy Curriculum
-- test out some of the lesson modules in the branches
-- Send Hélio mock-ups of site
-
+- Mock up Helio's site 
 
 ### to-maybe-do
 - coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
 - follow up with connections from Mozfest
 	- Davis about library web lit
-	- Audrey and Amira about libraries and web literacy
+	- Audrey and Amira about libraries, web literacy, and edible flowers
 - ask An-Me about her own family history and how it relates to Blackdom
+- Listen to Brownsville Excerpts
+- Contact [Robin Ketchum](ketchum.robin@gmail.com) to meet up at the Library
+- Send Alexis Calvas your hidden history zine. Her address is 69 Dennetts Road London SE15 5LF. 
+- Go to Recurse Center
+- Review and comment on new Strategic Plan Draft for David
