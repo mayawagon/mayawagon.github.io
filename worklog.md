@@ -122,24 +122,52 @@ _**Conference**: The People's Disruption: Platform Co-ops for Global Challenges_
 - scheduled meeting with Diana P. and Rawle to go over timeline and what this whole thing looks like
 
 ## 11/14/17
-- created workplan and Kanban board for bklynCONNECT using open practices
+- created [roadmap](https://github.com/mayawagon/bklynCONNECT/blob/master/roadmap.md) and [Kanban board](https://github.com/mayawagon/bklynCONNECT/projects/1) for bklynCONNECT using open practices
 - Contacted Taurean Lewis and Mary Tobin about plans for Osborn Plaza
+- _SP meeting_
+- Listened to Brownsville Excerpts
+- asked Adwoa to collab on DiscoTech
+- Made a spreadsheet of orgs to potentially invite/collab with, and venues for the DiscoTech
+- Got a quote on 3 Black Cats ($650/5hrs = $1300)
+
+## 11/15/17-11/17/18
+- _Nonprofit Software Development Summit_
+- attended session on Qualitative research design and how to answer difficult research questions, or questions for which there is not much quantitative data by Sarah
+- attended session on increasing diversity in System Administration by Jaime
+- attended session on Online Learning with Norman 
+- attended session on the Digital Divide, Indigeneity, and Acklnowledging Place
+- Did a skillshare on Portuguese and User Research with Amaya Webster from Benetech
+- attended part of a session on non-hierarchical project managerment by Design Action Collective
+- session on dealing with distraction
+- session on regular expressions and regex with Bill Buddington from EFF and Freddie Martinez
+- spoke with Adwoa about co-organizing the DiscoTech
+
+## 11/18/17
+- Wrote definitions and framing section of t4sj report 
+- organized interview excerpts in [a private github repository](https://github.com/mayawagon/t4sj-interview-excerpts)
+
+## 11/19/17
+- _met with Rawle and Diana to go over BklynConnect Timeline and Budget_
+- made timeline of BklynConnect through June 2018
 
 ### to-do today
 - Let Restoration Corp know about Bklyn Library Plans
-- write definitions and framing section of t4sj final report
 - write ecosystem section of t4sj final report
 - write up a design lesson plan for Web Literacy Curriculum
+- set time to meet with Selvon every other week
+- distribute needs assessments to team, branches, partners, etc.
+- Tell TYTHE that we want PDFs back
+- ask TRSs what equipment/support they could provide to DiscoTech, and when 
 
 # to-do
-- set time to meet with Selvon every other week
 - find someone implementing community wireless to be an audience/user
 - read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
 - test out some of the lesson modules in the branches
-- distribute needs assessments to team, branches, partners, etc.
 - rewrite TYTHE's section on bias and assumptions (p. 11)
 - send Stefanie people that should be in her consortium
 - Mock up Helio's site 
+- ask David to ask Naila to collab on DiscoTech
+- write MOU for NYCxCoLabs
 
 ### to-maybe-do
 - coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
@@ -147,7 +175,6 @@ _**Conference**: The People's Disruption: Platform Co-ops for Global Challenges_
 	- Davis about library web lit
 	- Audrey and Amira about libraries, web literacy, and edible flowers
 - ask An-Me about her own family history and how it relates to Blackdom
-- Listen to Brownsville Excerpts
 - Contact [Robin Ketchum](ketchum.robin@gmail.com) to meet up at the Library
 - Send Alexis Calvas your hidden history zine. Her address is 69 Dennetts Road London SE15 5LF. 
 - Go to Recurse Center
