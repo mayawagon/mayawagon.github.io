@@ -146,13 +146,22 @@ _**Conference**: The People's Disruption: Platform Co-ops for Global Challenges_
 - Wrote definitions and framing section of t4sj report 
 - organized interview excerpts in [a private github repository](https://github.com/mayawagon/t4sj-interview-excerpts)
 
-## 11/19/17
+## 11/20/17
 - _met with Rawle and Diana to go over BklynConnect Timeline and Budget_
 - made timeline of BklynConnect through June 2018
+- called to get quote on outdoor touchscreen interface
+
+## 11/21/17
+_stayed home sick_
+_met with t4sj team to go over what needs to happen before we can share the final report_
+- wrote Ecosystem section of t4sj final report
+
+## 11/22/17
+- Emailed Naila about DiscoTech, community engagements, and government partnerships
+
 
 ### to-do today
 - Let Restoration Corp know about Bklyn Library Plans
-- write ecosystem section of t4sj final report
 - write up a design lesson plan for Web Literacy Curriculum
 - set time to meet with Selvon every other week
 - distribute needs assessments to team, branches, partners, etc.
@@ -168,12 +177,20 @@ _**Conference**: The People's Disruption: Platform Co-ops for Global Challenges_
 - Mock up Helio's site 
 - ask David to ask Naila to collab on DiscoTech
 - write MOU for NYCxCoLabs
+- Contact Cheila about TPAC Petting Zoo?
+- Move everything from MIT Dropbox to external hard drive or personal harddrive before it is deactivated on January 25, 2018
+- get an alumni.mit.edu email address
+- Send Dave well wishes (and flowers?) for his surgery
+- Check out [SLO airbnb](https://www.airbnb.com/rooms/16133862?location=San%20Luis%20Obispo%2C%20CA%2C%20United%20States&children=0&infants=0&adults=5&guests=5&check_in=2017-12-21&check_out=2017-12-23&s=3_5_skcj)
+- Buy a flight to CA for the holidays
+
 
 ### to-maybe-do
 - coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
 - follow up with connections from Mozfest
 	- Davis about library web lit
 	- Audrey and Amira about libraries, web literacy, and edible flowers
+	- Danielle Robinson, [Code for Science and Society](https://codeforscience.org/)
 - ask An-Me about her own family history and how it relates to Blackdom
 - Contact [Robin Ketchum](ketchum.robin@gmail.com) to meet up at the Library
 - Send Alexis Calvas your hidden history zine. Her address is 69 Dennetts Road London SE15 5LF. 
