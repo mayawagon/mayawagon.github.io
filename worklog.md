@@ -157,13 +157,14 @@ _met with t4sj team to go over what needs to happen before we can share the fina
 - wrote Ecosystem section of t4sj final report
 
 ## 11/22/17
-- Emailed Naila about DiscoTech, community engagements, and government partnerships
-
+- Set up meeting with Naila about DiscoTech, community engagements, and government partnerships
+- Half a round of edits on t4sj final report
+- FINALLY responded to Selvon about regular check-ins
+- Talked to Diana at the Brooklyn Collection about [Community Webs](https://archive-it.org/blog/projects/community-webs/): Empowering Public Libraries to Create Community History Web Archives and the Memory Lab grant application
 
 ### to-do today
 - Let Restoration Corp know about Bklyn Library Plans
 - write up a design lesson plan for Web Literacy Curriculum
-- set time to meet with Selvon every other week
 - distribute needs assessments to team, branches, partners, etc.
 - Tell TYTHE that we want PDFs back
 - ask TRSs what equipment/support they could provide to DiscoTech, and when 
@@ -171,11 +172,10 @@ _met with t4sj team to go over what needs to happen before we can share the fina
 # to-do
 - find someone implementing community wireless to be an audience/user
 - read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
-- test out some of the lesson modules in the branches
+- test out some of the Web Literacy lesson modules in the branches
 - rewrite TYTHE's section on bias and assumptions (p. 11)
 - send Stefanie people that should be in her consortium
 - Mock up Helio's site 
-- ask David to ask Naila to collab on DiscoTech
 - write MOU for NYCxCoLabs
 - Contact Cheila about TPAC Petting Zoo?
 - Move everything from MIT Dropbox to external hard drive or personal harddrive before it is deactivated on January 25, 2018
@@ -183,7 +183,8 @@ _met with t4sj team to go over what needs to happen before we can share the fina
 - Send Dave well wishes (and flowers?) for his surgery
 - Check out [SLO airbnb](https://www.airbnb.com/rooms/16133862?location=San%20Luis%20Obispo%2C%20CA%2C%20United%20States&children=0&infants=0&adults=5&guests=5&check_in=2017-12-21&check_out=2017-12-23&s=3_5_skcj)
 - Buy a flight to CA for the holidays
-
+- Send Sneha a christmas(?) gift?
+- Contact Tahir Hemphill about data and his hip hop archive
 
 ### to-maybe-do
 - coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
