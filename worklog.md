@@ -162,6 +162,13 @@ _met with t4sj team to go over what needs to happen before we can share the fina
 - FINALLY responded to Selvon about regular check-ins
 - Talked to Diana at the Brooklyn Collection about [Community Webs](https://archive-it.org/blog/projects/community-webs/): Empowering Public Libraries to Create Community History Web Archives and the Memory Lab grant application
 
+## 11/23/17
+_Thanksgiving_
+
+## 11/27/17
+- responded to Adwoa
+- contacted Ms. Robinson at the Heritage House about space for the DiscoTech
+
 ### to-do today
 - Let Restoration Corp know about Bklyn Library Plans
 - write up a design lesson plan for Web Literacy Curriculum
@@ -181,8 +188,6 @@ _met with t4sj team to go over what needs to happen before we can share the fina
 - Move everything from MIT Dropbox to external hard drive or personal harddrive before it is deactivated on January 25, 2018
 - get an alumni.mit.edu email address
 - Send Dave well wishes (and flowers?) for his surgery
-- Check out [SLO airbnb](https://www.airbnb.com/rooms/16133862?location=San%20Luis%20Obispo%2C%20CA%2C%20United%20States&children=0&infants=0&adults=5&guests=5&check_in=2017-12-21&check_out=2017-12-23&s=3_5_skcj)
-- Buy a flight to CA for the holidays
 - Send Sneha a christmas(?) gift?
 - Contact Tahir Hemphill about data and his hip hop archive
 
@@ -197,3 +202,5 @@ _met with t4sj team to go over what needs to happen before we can share the fina
 - Send Alexis Calvas your hidden history zine. Her address is 69 Dennetts Road London SE15 5LF. 
 - Go to Recurse Center
 - Review and comment on new Strategic Plan Draft for David
+- Snoop on a NYPL TechConnect class
+- Snoop on a NYPL Project_<code> class
