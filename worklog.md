@@ -28,7 +28,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | November 	| 17-19 | no 				| [Data for Black Lives](http://d4bl.org/conference.html) Conference at MIT |  
 | November 	| 20-22 | yes				|	|
 | November 	| 23	| no				| Thanksgiving	|
-| Novmber	| 27-30 | yes				|	|
+| November	| 27-30 | yes				|	|
 | December 	| 1 	| yes				| 	|
 | December	| 4-8	| yes				|	|
 | December	| 11-15	| yes				|	|
@@ -166,15 +166,25 @@ _met with t4sj team to go over what needs to happen before we can share the fina
 _Thanksgiving_
 
 ## 11/27/17
-- responded to Adwoa
+- spoke with Adwoa about DiscoTech
 - contacted Ms. Robinson at the Heritage House about space for the DiscoTech
+_medical appointment_
+- Met with Naila Caicedo about government and community partnerships
+
+## 11/28/17 
+- Called Heritage House to set up a site visit
+- Followed up with Taurean at Brownsville Partnership
+- Emailed the Melting Pot to set up site visit tomorrow
+- Messaged Cheila about TRS curriculum, TPAC Petting Zoo, and DiscoTech
+_Strategic Planning staff meeting_
+_Community Board 16 Meeting_
 
 ### to-do today
 - Let Restoration Corp know about Bklyn Library Plans
 - write up a design lesson plan for Web Literacy Curriculum
 - distribute needs assessments to team, branches, partners, etc.
 - Tell TYTHE that we want PDFs back
-- ask TRSs what equipment/support they could provide to DiscoTech, and when 
+- Make a save the date flyer and announcement
 
 # to-do
 - find someone implementing community wireless to be an audience/user
@@ -184,7 +194,6 @@ _Thanksgiving_
 - send Stefanie people that should be in her consortium
 - Mock up Helio's site 
 - write MOU for NYCxCoLabs
-- Contact Cheila about TPAC Petting Zoo?
 - Move everything from MIT Dropbox to external hard drive or personal harddrive before it is deactivated on January 25, 2018
 - get an alumni.mit.edu email address
 - Send Dave well wishes (and flowers?) for his surgery
