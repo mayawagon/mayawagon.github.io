@@ -27,7 +27,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | November	| 15-17 | no 				| [Nonprofit Software Development Summit](https://www.eventbrite.com/e/2017-nonprofit-software-development-summit-tickets-32739247972) in Oakland, CA|
 | November 	| 17-19 | no 				| [Data for Black Lives](http://d4bl.org/conference.html) Conference at MIT |  
 | November 	| 20-22 | yes				|	|
-| November 	| 23	| no				| Thanksgiving	|
+| November 	| 23-24	| no				| Thanksgiving	|
 | November	| 27-30 | yes				|	|
 | December 	| 1 	| yes				| 	|
 | December	| 4-8	| yes				|	|
@@ -35,8 +35,8 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | December	| 18-22 | yes				|	|
 | December  | 25	| no				| Christmas	| 
 | December  | 26-29 | yes				|	|
-| January 	| 22-26 | no 				| Mozilla Fellows Workweek |
-| January 	| 30 	| yes 				| my birthday! 🎉|
+| January 	| 29-31 | no 				| Mozilla Fellows Workweek, my birthday (🎉) on the 30th |
+| February  | 1-2	| no				| Mozilla Fellows Workweek |
 | February 	| 13-16 | no 				| [Code4Lib](https://code4lib.org/) in Washington, DC |
 | March 	| 5-9 	| no 				| [Internet Freedom Festival](https://internetfreedomfestival.org/) in Valencia, Spain |
 | March		| 20-24 | no 				| Public Libraries Association Conference in Philadelphia, PA |
@@ -109,12 +109,12 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - updated shared calendar for when I will and won't be around
 
 ## 11/9/17
-_Facilitation Bootcamp by the Design Gym_
+- _Facilitation Bootcamp by the Design Gym_
 - Sent Kris from TYTHE updated needs assessment .indd's
 
 ## 11/10/17
-_Veteran's Day Observed_
-_**Conference**: The People's Disruption: Platform Co-ops for Global Challenges_
+- _Veteran's Day Observed_
+- _**Conference**: The People's Disruption: Platform Co-ops for Global Challenges_
 
 ## 11/13/17
 - Lead a meeting with Jose, Kate, and Anthony from NYC Tech + Rawle and Diana P.
@@ -152,8 +152,8 @@ _**Conference**: The People's Disruption: Platform Co-ops for Global Challenges_
 - called to get quote on outdoor touchscreen interface
 
 ## 11/21/17
-_stayed home sick_
-_met with t4sj team to go over what needs to happen before we can share the final report_
+- _stayed home sick_
+- _met with t4sj team to go over what needs to happen before we can share the final report_
 - wrote Ecosystem section of t4sj final report
 
 ## 11/22/17
@@ -163,12 +163,12 @@ _met with t4sj team to go over what needs to happen before we can share the fina
 - Talked to Diana at the Brooklyn Collection about [Community Webs](https://archive-it.org/blog/projects/community-webs/): Empowering Public Libraries to Create Community History Web Archives and the Memory Lab grant application
 
 ## 11/23/17
-_Thanksgiving_
+🦃 _Thanksgiving_ 🦃
 
 ## 11/27/17
 - spoke with Adwoa about DiscoTech
 - contacted Ms. Robinson at the Heritage House about space for the DiscoTech
-_medical appointment_
+- _medical appointment_
 - Met with Naila Caicedo about government and community partnerships
 
 ## 11/28/17 
@@ -176,17 +176,30 @@ _medical appointment_
 - Followed up with Taurean at Brownsville Partnership
 - Emailed the Melting Pot to set up site visit tomorrow
 - Messaged Cheila about TRS curriculum, TPAC Petting Zoo, and DiscoTech
-_Strategic Planning staff meeting_
-_Community Board 16 Meeting_
+- Made a Save the Date flyer
+- _Strategic Planning staff meeting, 12pm_
+- _Community Board 16 Meeting, 7pm_
+
+## 11/29/17
+- _day in Brownsville with Naila_
+- Met with Miriam and Iris at the Heritage House
+- Visited Brownsville Community Culinary Center to see spaces available
+- Met with CB 16 District Manager Viola D. Greene-Walker
+- T4SJ report review call with partners
+
+## 12/4/17
+
 
 ### to-do today
-- Let Restoration Corp know about Bklyn Library Plans
-- write up a design lesson plan for Web Literacy Curriculum
-- distribute needs assessments to team, branches, partners, etc.
 - Tell TYTHE that we want PDFs back
-- Make a save the date flyer and announcement
+- distribute needs assessments to team, branches, partners, etc.
+- Set up meeting with Jose tomorrow
+- Review Internet Health Report
 
 # to-do
+- Select DiscoTech location
+- Let Restoration Corp know about Bklyn Library Plans
+- write up a design lesson plan for Web Literacy Curriculum
 - find someone implementing community wireless to be an audience/user
 - read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
 - test out some of the Web Literacy lesson modules in the branches
@@ -199,6 +212,7 @@ _Community Board 16 Meeting_
 - Send Dave well wishes (and flowers?) for his surgery
 - Send Sneha a christmas(?) gift?
 - Contact Tahir Hemphill about data and his hip hop archive
+- What is TPAC: Technology Programming Advisory Committee?
 
 ### to-maybe-do
 - coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
@@ -213,3 +227,4 @@ _Community Board 16 Meeting_
 - Review and comment on new Strategic Plan Draft for David
 - Snoop on a NYPL TechConnect class
 - Snoop on a NYPL Project_<code> class
+- Meet with Lisa Rosenblum before January to discuss her two-day librarian boot camp and training in general
