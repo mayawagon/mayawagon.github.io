@@ -53,6 +53,13 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - [Detroit Future Media Guide to Digital Literacy](https://www.alliedmedia.org/files/dfm_final_web.pdf)
 - [Detroit Future Schools Guide to Humanizing Schooling](https://www.alliedmedia.org/news/2015/09/10/introducing-%E2%80%9Cdfs-guide-humanizing-schooling%E2%80%9D)
 
+## Facilitation Resources
+> - [The International Association of Facilitators](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=6c156f0037&e=3ab5fa6088) is a great organization that provides Professional Facilitator certification.
+> - Helpful books include: [The Art of Focused Conversation](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=3c808ff5ca&e=3ab5fa6088), [Gamestorming](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=8a89e91309&e=3ab5fa6088), [Facilitator's Guide to Managing Participatory Decision Making](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=4bb2dff3bb&e=3ab5fa6088), and [The Skilled Facilitator](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=d907d65ab4&e=3ab5fa6088)
+> - Looking for energizer inspiration? Check out [Ice-breakers, energizers & team builders](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=00be727ba3&e=3ab5fa6088) and [Fun Retrospectives](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=b9a4159831&e=3ab5fa6088)
+> - [Method Kit Planning Guide](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=5dcbe69cfd&e=3ab5fa6088)
+
+
 ## Other links
 - [list of local CBOs per Brooklyn Neighborhood](https://www.dropbox.com/s/bocupav7nt4fx7d/BKLNconnect_CBOs-Resources_v1.xlsx?dl=0) (from Kristina Drury)
 - [Opening Data Zine](https://www.alliedmedia.org/files/ddjc_zine-final-rgb.pdf)
