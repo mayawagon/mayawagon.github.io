@@ -218,12 +218,19 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Optimized needs assessment files
 - Spoke to Code for America and Ford Foundation about T4SJ final report
 
+## 12/11/17
+- emailed Julie Taylor to set up meeting to speak in depth about Feb youth cohort
+- Wrote workplan
+- Followed up with Greta and Raul
+- rescheduled doctor's appointment to January 4th
+-_Check in with Selvon_
+
 ### to-do today
 - decide on DiscoTech Location
 - Make DiscoTech flyers and blurbs
-- Write usability testing plan for catalog and app
 
 # to-do
+- Write usability testing plan for catalog and app
 - Needs assessments
 	- distribute needs assessments to team, branches, partners, etc.
 	- Write email for team
