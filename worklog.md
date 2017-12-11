@@ -32,10 +32,12 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | December 	| 1 	| yes				| 	|
 | December	| 4-8	| yes				|	|
 | December	| 11-15	| yes				|	|
-| December	| 18-22 | yes				|	|
+| December	| 18-22 | no				| In California for the holiday	|
 | December  | 25	| no				| Christmas	| 
-| December  | 26-29 | yes				|	|
-| January 	| 29-31 | no 				| Mozilla Fellows Workweek, my birthday (🎉) on the 30th |
+| December  | 26-29 | no				| In California for the holiday	|
+| January	| 13	| no				| Brownsville DiscoTech Co-design Day	 |
+| January	| 20	| no				| Brownsville DiscoTech	|
+| January 	| 28-31 | no 				| Mozilla Fellows Workweek, my birthday (🎉) on the 30th |
 | February  | 1-2	| no				| Mozilla Fellows Workweek |
 | February 	| 13-16 | no 				| [Code4Lib](https://code4lib.org/) in Washington, DC |
 | March 	| 5-9 	| no 				| [Internet Freedom Festival](https://internetfreedomfestival.org/) in Valencia, Spain |
@@ -219,11 +221,12 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Spoke to Code for America and Ford Foundation about T4SJ final report
 
 ## 12/11/17
-- emailed Julie Taylor to set up meeting to speak in depth about Feb youth cohort
-- Wrote workplan
+- emailed Julie Taylor to set up meeting to speak in depth about February youth cohort
+- Wrote [workplan](https://docs.google.com/document/d/1gGpMRKvic7xnvaGOZK2unTocyAG1i5JMnij8DArA2Tc/edit#)
 - Followed up with Greta and Raul
 - rescheduled doctor's appointment to January 4th
--_Check in with Selvon_
+- _Check in with Selvon_
+- informally invited Greg to photograph community technology skillshare in January
 
 ### to-do today
 - decide on DiscoTech Location
@@ -253,8 +256,6 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Send Sneha a christmas(?) gift?
 - Contact Tahir Hemphill about data and his hip hop archive
 - What is TPAC: Technology Programming Advisory Committee?
-- Buy tix to the Portuguese Kid before the 10th
-- Create workplan
 - Make an appointment for a new drivers license
 
 ### to-maybe-do
