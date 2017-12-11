@@ -188,16 +188,49 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - T4SJ report review call with partners
 
 ## 12/4/17
+- Emailed Jose to set up meeting tomorrow
+- Finally after all these years cleaned up my dropbox folder
+- Put [needs assessments on Github](https://github.com/mayawagon/bklynCONNECT/tree/master/Digital%20Access%20Needs%20Assessments)
+- Provided feedback on the Internet Health Report
+- Contacted Brownsville Culinary Center about reserving space
+- _Georgia Bullen's Design for Democracy talk at Pratt_
 
+## 12/5/17
+- made [agenda](https://docs.google.com/document/d/1yE78Y4r2DlG2nS-RxwniX95ky7NfVuExyiy6ilN-I5A/edit#) for call with Jose Serrano McClain
+- Emailed Kris back about needs assessments and playbook
+- Talked to Jose, found out about kiosks, LinkNYC, BCJC
+- _SP Staff Meeting_
+- Met with Selvon, Ann, and Mike about user testing and software testing
+- Read a series of articles on broadband access and adoption, starting with [Broadband's Impact: a Brief Literature Review](https://www.pcrd.purdue.edu/files/media/Broadbands-Impact-Final.pdf)
+- got an update from Rawle on his future convo with cablevision
+
+## 12/6/17
+- Met with Noella and Cathy to give an update on our timeline and the IMLS grant
+- set up meeting with Jose and Julie Taylor from BCJC tomorrow morning
+- asked Sharon for best practices for disseminating reports
+- followed up with Taurean
+
+## 12/7/17
+- spoke with Jose and Julie about running a fellowship Feb 1st-May 1st
+- reviewed Playbook draft from Tythe
+
+## 12/8/17
+- Optimized needs assessment files
+- Spoke to Code for America and Ford Foundation about T4SJ final report
 
 ### to-do today
-- Tell TYTHE that we want PDFs back
-- distribute needs assessments to team, branches, partners, etc.
-- Set up meeting with Jose tomorrow
-- Review Internet Health Report
+- decide on DiscoTech Location
+- Make DiscoTech flyers and blurbs
+- Write usability testing plan for catalog and app
 
 # to-do
-- Select DiscoTech location
+- Needs assessments
+	- distribute needs assessments to team, branches, partners, etc.
+	- Write email for team
+	- Write email for East New York Orgs
+	- Write email for Brownsville Orgs
+	- Write email for Bed Stuy Orgs
+- Make a spreadsheet of all the technology education the library offers to anyone
 - Let Restoration Corp know about Bklyn Library Plans
 - write up a design lesson plan for Web Literacy Curriculum
 - find someone implementing community wireless to be an audience/user
@@ -213,6 +246,9 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Send Sneha a christmas(?) gift?
 - Contact Tahir Hemphill about data and his hip hop archive
 - What is TPAC: Technology Programming Advisory Committee?
+- Buy tix to the Portuguese Kid before the 10th
+- Create workplan
+- Make an appointment for a new drivers license
 
 ### to-maybe-do
 - coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
@@ -228,3 +264,5 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Snoop on a NYPL TechConnect class
 - Snoop on a NYPL Project_<code> class
 - Meet with Lisa Rosenblum before January to discuss her two-day librarian boot camp and training in general
+- Get Seville oranges to make marmalade
+- Write an article for the internet health report
