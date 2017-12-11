@@ -44,7 +44,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | March		| 20-24 | no 				| Public Libraries Association Conference in Philadelphia, PA |
 | April 	| 		| yes 				| |
 | May 		| 		| yes 				| |
-| June 		| 30 	| yes 				| final day of fellowship :( |
+| June 		| 30 	| yes 				| final day of fellowship |
 
 # Links
 
@@ -270,7 +270,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Go to Recurse Center
 - Review and comment on new Strategic Plan Draft for David
 - Snoop on a NYPL TechConnect class
-- Snoop on a NYPL Project_<code> class
+- Snoop on a NYPL Project_\<code\> class
 - Meet with Lisa Rosenblum before January to discuss her two-day librarian boot camp and training in general
 - Get Seville oranges to make marmalade
 - Write an article for the internet health report
