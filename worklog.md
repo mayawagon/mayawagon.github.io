@@ -54,6 +54,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - [Detroit Future Schools Guide to Humanizing Schooling](https://www.alliedmedia.org/news/2015/09/10/introducing-%E2%80%9Cdfs-guide-humanizing-schooling%E2%80%9D)
 
 ## Facilitation Resources
+_from [The Design Gym](http://www.thedesigngym.com/) Facilitation Bootcamp_
 > - [The International Association of Facilitators](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=6c156f0037&e=3ab5fa6088) is a great organization that provides Professional Facilitator certification.
 > - Helpful books include: [The Art of Focused Conversation](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=3c808ff5ca&e=3ab5fa6088), [Gamestorming](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=8a89e91309&e=3ab5fa6088), [Facilitator's Guide to Managing Participatory Decision Making](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=4bb2dff3bb&e=3ab5fa6088), and [The Skilled Facilitator](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=d907d65ab4&e=3ab5fa6088)
 > - Looking for energizer inspiration? Check out [Ice-breakers, energizers & team builders](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=00be727ba3&e=3ab5fa6088) and [Fun Retrospectives](https://thedesigngym.us5.list-manage.com/track/click?u=fd7c1b3b33141f06a2d8eb5be&id=b9a4159831&e=3ab5fa6088)
@@ -234,6 +235,16 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - rescheduled doctor's appointment to January 4th
 - _Check in with Selvon_
 - informally invited Greg to photograph community technology skillshare in January
+- asked Naila for her preference on DiscoTech location
+
+## 12/12/17
+- Created [Research Plan](https://docs.google.com/document/d/1I1x_ZhYBU5JdYOKBU2fnP-foxVXteUjU7i-gXVkwtbs/edit?usp=sharing) for DiscoTech
+- _SP Staff meeting_
+- Naila thinks the Heritage House is a good location
+
+## 12/13/17
+- Met with Julie Taylor at BCJC
+- _Introduction to GitHub for Librarians and Archivists @ METRO NYC_
 
 ### to-do today
 - decide on DiscoTech Location
@@ -264,6 +275,8 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Contact Tahir Hemphill about data and his hip hop archive
 - What is TPAC: Technology Programming Advisory Committee?
 - Make an appointment for a new drivers license
+- Get pricing from Rawle on internet and kiosk deployment
+- Reschedule flight back from CA 
 
 ### to-maybe-do
 - coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
