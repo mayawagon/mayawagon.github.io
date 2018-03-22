@@ -14,6 +14,7 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | January	| 20	| Brownsville DiscoTech |
 | Jan-Feb	| 28-2	| Mozilla Workweek @ SF |
 | March		| 5-9	| Internet Freedom Festival @ Valencia, Spain |
+| March 	| 16	| Allied Media Conference session proposal due |
 | March		| 18-27	| 5 focus groups for Nudge |
 | March		| 23	| Deadline for Implementation and Evaluation sections of BklynConnect Playbook |
 | March		| 30	| Deadline for final insights from focus groups to UVA and Ideas 42 |
@@ -24,6 +25,10 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 | June		| 14-17	| Allied Media Conference @ Detroit, MI |
 | June		| 30	| Official last day of Open Web Fellowship |
 
+# Helpful links
+- [BCJC Tech Lab Curriculum Guide](https://docs.google.com/document/d/1sZLhq8VYMmUQGTuuZ0I7k-LEnMXuVUUwcUOOeXRQPus/edit?usp=sharing)
+- [BPL Email](https://owa.bklynlibrary.org/owa/#)
+
 # Worklog
 
 ## 3/22/18
@@ -32,6 +37,8 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - lesson plan for Tech Lab
 - schedule guest speakers
 - write implementation and evaluation sections of playbooks
+- message Selvon and Mike about who is doing what work
+- Check in about transcription budget
 
 # to-do
 - Design a library for a mars colony
@@ -41,6 +48,8 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Needs assessments
 	- distribute needs assessments to team, branches, partners, etc.
 - Make a spreadsheet of all the technology education the library offers to anyone
+- Follow up with RSVPs for Saturday focus groups
+- Figure out what the steps are for giving someone an honorarium
 
 ### to-maybe-do
 - Send Alexis Calvas your hidden history zine. Her address is 69 Dennetts Road London SE15 5LF. 

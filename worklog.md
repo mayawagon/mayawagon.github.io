@@ -246,10 +246,6 @@ _from [The Design Gym](http://www.thedesigngym.com/) Facilitation Bootcamp_
 - Met with Julie Taylor at BCJC
 - _Introduction to GitHub for Librarians and Archivists @ METRO NYC_
 
-### to-do today
-- decide on DiscoTech Location
-- Make DiscoTech flyers and blurbs
-
 # to-do
 - Write usability testing plan for catalog and app
 - Needs assessments
@@ -260,26 +256,15 @@ _from [The Design Gym](http://www.thedesigngym.com/) Facilitation Bootcamp_
 	- Write email for Bed Stuy Orgs
 - Make a spreadsheet of all the technology education the library offers to anyone
 - Let Restoration Corp know about Bklyn Library Plans
-- write up a design lesson plan for Web Literacy Curriculum
 - find someone implementing community wireless to be an audience/user
 - read and review [Web Literacy Curriculum Reboot](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit) 
 - test out some of the Web Literacy lesson modules in the branches
-- rewrite TYTHE's section on bias and assumptions (p. 11)
-- send Stefanie people that should be in her consortium
-- Mock up Helio's site 
 - write MOU for NYCxCoLabs
-- Move everything from MIT Dropbox to external hard drive or personal harddrive before it is deactivated on January 25, 2018
 - get an alumni.mit.edu email address
 - Send Dave well wishes (and flowers?) for his surgery
-- Send Sneha a christmas(?) gift?
 - Contact Tahir Hemphill about data and his hip hop archive
-- What is TPAC: Technology Programming Advisory Committee?
-- Make an appointment for a new drivers license
-- Get pricing from Rawle on internet and kiosk deployment
-- Reschedule flight back from CA 
 
 ### to-maybe-do
-- coordinate with Melissa Morrone about [Endangered Data Week](http://endangereddataweek.org/) Feb 26-March 2
 - follow up with connections from Mozfest
 	- Davis about library web lit
 	- Audrey and Amira about libraries, web literacy, and edible flowers
@@ -288,9 +273,5 @@ _from [The Design Gym](http://www.thedesigngym.com/) Facilitation Bootcamp_
 - Contact [Robin Ketchum](ketchum.robin@gmail.com) to meet up at the Library
 - Send Alexis Calvas your hidden history zine. Her address is 69 Dennetts Road London SE15 5LF. 
 - Go to Recurse Center
-- Review and comment on new Strategic Plan Draft for David
 - Snoop on a NYPL TechConnect class
 - Snoop on a NYPL Project_\<code\> class
-- Meet with Lisa Rosenblum before January to discuss her two-day librarian boot camp and training in general
-- Get Seville oranges to make marmalade
-- Write an article for the internet health report
