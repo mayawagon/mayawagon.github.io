@@ -27,24 +27,48 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 
 # Helpful links
 - [BCJC Tech Lab Curriculum Guide](https://docs.google.com/document/d/1sZLhq8VYMmUQGTuuZ0I7k-LEnMXuVUUwcUOOeXRQPus/edit?usp=sharing)
-- [BPL Email](https://owa.bklynlibrary.org/owa/#)
+- [BPL Email Account (password protected)](https://owa.bklynlibrary.org/owa/#)
 
 # Worklog
 
 ## 3/22/18
+- sent Jose a rundown of availability for Governor's Island trip
+- coordinated with Lauren Rochford about sending reminders to Saturday focus group participants
+- created lesson plan for Tech Lab
+- facilitated tech lab
+
+## 3/23/18
+- emailed Jose for more details on Governor's Island trip
+
+## 3/24/18
+- Facilitated an interview and a focus group for Nudge with Lauren Rochford at New Lots library
+- messaged Selvon and Mike about who is doing what work, and about potential transcription budget
+
+## 3/26/18
+- Went with Christian to get his wisdom teeth removed
+- Spoke with Ryan Gerety about the BCJC workshop she's facilitating
+- Followed up with Jose about Governor's Island Field Trip
+- Cancelled teen focus group tomorrow
+- Followed up with Mike and Selvon to figure out who is doing analysis of focus group data
+
+## 3/27/18
+- Spoke with Mark Daly to confirm career finding workshop at BCJC tomorrow
+- Send detailed message about potential AMC trip to Chloe, who checked with James Brodick of BCJC
+- Wrote Implementation and Evaluation sections of playbook (then wrote implementation again)
+- Printed out and read several anarchist texts
+- Confirmed that I would guest speak at ADI about participatory technology design
 
 ### to-do today
-- lesson plan for Tech Lab
 - schedule guest speakers
-- write implementation and evaluation sections of playbooks
-- message Selvon and Mike about who is doing what work
-- Check in about transcription budget
 
 # to-do
+- Read about anarchism from the texts Chaparro sent
+- Call manhattan theater club about theater tickets while yr mom is visiting (plus, can we get two more at $30 for St. Joan for michael and ???)
 - Design a library for a mars colony
 	- watch two mars videos your dad sent you
 - taxes
 - interview Brette Warshaw
+- interview Walter Green
 - Needs assessments
 	- distribute needs assessments to team, branches, partners, etc.
 - Make a spreadsheet of all the technology education the library offers to anyone
