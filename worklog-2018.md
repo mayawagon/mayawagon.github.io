@@ -58,14 +58,23 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Printed out and read several anarchist texts
 - Confirmed that I would guest speak at ADI about participatory technology design
 
+## 3/28/18
+- Met with Ben Castleman, Vivien Catalano, Nick Higgins, David Woloch, Mike Fieni, and Selvon about Nudge behavioral diagnosis
+- Cancelled meeting with Ideas42
+- Hosted Mark Daly as guest speaker at BCJC (but only Jahtiek came 🙃)
+
+## 3/29/18
+- paid my credit card bill
+
 ### to-do today
 - schedule guest speakers
+- send thank you note to Mark Daly
+- plan out early part of BCJC session
+- Design a library for a mars colony
 
 # to-do
 - Read about anarchism from the texts Chaparro sent
 - Call manhattan theater club about theater tickets while yr mom is visiting (plus, can we get two more at $30 for St. Joan for michael and ???)
-- Design a library for a mars colony
-	- watch two mars videos your dad sent you
 - taxes
 - interview Brette Warshaw
 - interview Walter Green
