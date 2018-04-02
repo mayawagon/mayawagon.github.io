@@ -62,15 +62,34 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Met with Ben Castleman, Vivien Catalano, Nick Higgins, David Woloch, Mike Fieni, and Selvon about Nudge behavioral diagnosis
 - Cancelled meeting with Ideas42
 - Hosted Mark Daly as guest speaker at BCJC (but only Jahtiek came 🙃)
+- followed up with Aurelia about Mozilla funding youth to go to Detroit
 
 ## 3/29/18
 - paid my credit card bill
+- Met with other Brownsville Live facilitators about June 2nd Be on Belmont block party, and teaching challenges
+- Ryan Gerety came to do workshop on routers, network design, and community organizing strategies
+
+## 3/30/18
+- Met with Chad and Flormary about teaching PNK workshops
+
+## 3/31/18
+- Bought a secondhand jean jacket and pink cardigan w/ Christian
+- Had a mimosa and ate biscuits w/ mushroom gravy
+
+## 4/1/18
+- Got a palm tree, a kitchen island, and two lil plants. Repotted some things.
+- Took an hour to read 78 pages of This Is How You Lose Her by Junot Diaz.
+
+## 4/2/18
+- Left comments on communications diagnosis slide deck
+- Thanked Nate Mullen for sending the Guide to Humanizing Schooling
 
 ### to-do today
 - schedule guest speakers
 - send thank you note to Mark Daly
-- plan out early part of BCJC session
-- Design a library for a mars colony
+- find out how to pay speakers
+- distribute needs assessments
+- write user interview guides
 
 # to-do
 - Read about anarchism from the texts Chaparro sent
@@ -81,8 +100,9 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 - Needs assessments
 	- distribute needs assessments to team, branches, partners, etc.
 - Make a spreadsheet of all the technology education the library offers to anyone
-- Follow up with RSVPs for Saturday focus groups
 - Figure out what the steps are for giving someone an honorarium
+	- send forms to Ryan
+	- send forms to Harlo
 
 ### to-maybe-do
 - Send Alexis Calvas your hidden history zine. Her address is 69 Dennetts Road London SE15 5LF. 
