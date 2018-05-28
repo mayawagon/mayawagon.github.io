@@ -78,20 +78,20 @@ _Inspired by [Aurelia Moser's Worklog](https://github.com/auremoser/mozsci/blob/
 
 ## 4/1/18
 - Got a palm tree, a kitchen island, and two lil plants. Repotted some things.
-- Took an hour to read 78 pages of This Is How You Lose Her by Junot Diaz.
+- Took an hour to read 78 pages of *This Is How You Lose Her* by Junot Diaz.
 
 ## 4/2/18
 - Left comments on communications diagnosis slide deck
 - Thanked Nate Mullen for sending the Guide to Humanizing Schooling
 
 ### to-do today
-- schedule guest speakers
 - send thank you note to Mark Daly
 - find out how to pay speakers
 - distribute needs assessments
 - write user interview guides
 
 # to-do
+- schedule guest speakers
 - Read about anarchism from the texts Chaparro sent
 - Call manhattan theater club about theater tickets while yr mom is visiting (plus, can we get two more at $30 for St. Joan for michael and ???)
 - taxes
